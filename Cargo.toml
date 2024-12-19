@@ -16,7 +16,7 @@ name = "svg_tessellation_renderer"
 path = "src/bin.rs"
 
 [dependencies]
-clap = "2.34.0"
+clap = "4.0.26"
 lyon = {version ="0.17.10", features = ["extra"]}
 usvg = "0.22.0"
 serde = { version = "1.0.136", features = ["derive"] }
