@@ -19,7 +19,7 @@ path = "src/bin.rs"
 clap = "2.34.0"
 lyon = {version ="0.17.10", features = ["extra"]}
 usvg = "0.22.0"
-serde = { version = "1.0.136", features = ["derive"] }
+serde = { version = "1.0.147", features = ["derive"] }
 walkdir = "2"
 csv = "1.1"
 winit = "0.26.1"
