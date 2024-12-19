@@ -22,7 +22,7 @@ usvg = "0.22.0"
 serde = { version = "1.0.136", features = ["derive"] }
 walkdir = "2"
 csv = "1.1"
-winit = "0.26.1"
+winit = "0.27.5"
 log = "0.4"
 wgpu = "0.12.0"
 pollster = "0.2"
